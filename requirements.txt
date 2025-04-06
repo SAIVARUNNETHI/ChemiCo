@@ -1,3 +1,4 @@
+-f https://www.rdkit.org/rdkit_whl/rdkit_pypi.html
 streamlit
 rdkit
 rxnmapper
