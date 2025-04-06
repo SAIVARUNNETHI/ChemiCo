@@ -1,4 +1,4 @@
-streamlit==1.32.2
-rdkit-pypi==2022.9.5
-rxnmapper==0.4.1
-py3Dmol==1.8.1.post1
+streamlit
+rdkit-pypi
+rxnmapper
+py3Dmol
