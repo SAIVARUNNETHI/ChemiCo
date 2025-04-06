@@ -1,10 +1,5 @@
 streamlit
-rdkit-pypi
+rdkit-pypi==2022.9.5
 rxnmapper
 py3Dmol
-
-streamlit==1.32.2
-rdkit-pypi==2022.9.5
-rxnmapper==0.2.5
-torch==2.0.1
-
+torch
