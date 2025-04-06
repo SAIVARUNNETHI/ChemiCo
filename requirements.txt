@@ -1,5 +1,5 @@
 -f https://www.rdkit.org/rdkit_whl/rdkit_pypi.html
+rdkit==2023.03.2
 streamlit
-rdkit
 rxnmapper
 py3Dmol
